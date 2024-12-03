@@ -39,20 +39,31 @@ Government of Gujarat
 ## Technology Stack
 
 **Frontend Development:** Angular(Web Application)/Flutter(Mobile application)
+
 **Backend Development:** Python with Django or Flask(Framework)
+
 **Database:**MongoDB(with PyMongo)/PostgreSQL (with psycopg2 or SQLAlchemy)
+
 **Deployment:**
+
 ***Web Hosting:*** Vercel or Netlify
+
 ***Backend Hosting:*** Heroku or AWS Elastic Beanstalk
+
 ***Database Hosting:*** MongoDB Atlas or AWS RDS
+
 **Authentication:** OAuth 2.0 or JWT (with Django Allauth or Flask-JWT-Extended)
 
 
 ## Dependencies
 
 **Frontend Development:**  Angular frontend dependencies typically include '@angular/core', '@angular/common', '@angular/router', 'rxjs', and '@angular/material', while Flutter frontend dependencies often consist of 'flutter', 'http', 'provider', and 'flutter_bloc'.
+
 **Backend Development:**  Django or Flask for web frameworks, Django REST Framework or Flask-RESTful for building APIs, SQLAlchemy or Django ORM for database interactions, and pytest or unittest for testing.
+
 **Database:**  SQLAlchemy for ORM in Python, Mongoose for MongoDB in Node.js, pg for PostgreSQL in JavaScript, Entity Framework for .NET applications, and Hibernate for Java applications, along with database connectors like mysql-connector for MySQL.
+
 **Deployment:**  Vercel or Netlify for web hosting with automatic Git integration and serverless functions, while opting for Heroku or AWS Elastic Beanstalk for backend hosting with easy scaling and management, and choose MongoDB Atlas or AWS RDS for database hosting.
+
 **Authentication:** Auth0 or Firebase Authentication for comprehensive identity management and social login integration, while NextAuth.js is a great option for Next.js applications, and Passport.js provides a flexible middleware for Node.js applications, allowing you to implement various authentication strategies easily.
 
